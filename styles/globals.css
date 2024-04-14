@@ -4,7 +4,9 @@
 
 
 .navbar__link{
+    font-size: large;
     margin: 0 30px;
+
 }
 .navbar__link:hover{
     color:#ff8f9c;

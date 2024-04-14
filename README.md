@@ -61,3 +61,7 @@ If your team is not interested in this tooling, you can remove them with ease!
 ### Removing Renovate
 
 In order to keep our project up-to-date with dependencies we use a tool called [Renovate](https://github.com/marketplace/renovate). If you’re not interested in this tooling, delete the `renovate.json` file and commit that onto your main branch.
+
+<!-- domain: dev-7b6bcvjqj12cx7e2.us.auth0.com
+id: cItmrNhCcIwdUnqBgdMemR1qB5L102FY
+pass: nk09RGaQ-lM2QNDyFWXJimk6ZcaADrr2cU7qpFz-jGL_FS31KuVJdJ9WM5gWwkmw -->
