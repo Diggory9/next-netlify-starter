@@ -65,3 +65,4 @@ In order to keep our project up-to-date with dependencies we use a tool called [
 <!-- domain: dev-7b6bcvjqj12cx7e2.us.auth0.com
 id: cItmrNhCcIwdUnqBgdMemR1qB5L102FY
 pass: nk09RGaQ-lM2QNDyFWXJimk6ZcaADrr2cU7qpFz-jGL_FS31KuVJdJ9WM5gWwkmw -->
+ <!-- https://fakestoreapi.com/products -->
