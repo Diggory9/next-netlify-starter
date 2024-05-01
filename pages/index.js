@@ -4,6 +4,7 @@ import Footer from '@components/Footer'
 import Navbar from '@components/Navbar'
 import { useUser } from '@auth0/nextjs-auth0/client'
 import AllProducts from '@components/AllProducts'
+
 export default function Home() {
   const {user,error,isLoading} = useUser();
   if (isLoading) return <div>Loading...</div>;
@@ -17,12 +18,16 @@ export default function Home() {
     );
   }
   return (
+ 
     <div className="container">
       <Navbar/>
       {/* <a href="/api/auth/login">Login</a> */}
       <AllProducts/>
+  
       <Footer />
     </div>
+  
   )
   
 }
+
